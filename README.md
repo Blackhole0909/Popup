@@ -56,9 +56,3 @@ Handles the backend configuration for the plugin, allowing administrators to cus
 ## Usage
 Once activated, the plugin works automatically by displaying a popup notification whenever a product is added to the cart once its settings are defined, such as display conditions.. Administrators can customize the plugin's behavior through the WordPress admin panel under the plugin's settings section.
 
-## License
-This plugin is licensed under the [GPLv2 (or later)](https://www.gnu.org/licenses/gpl-2.0.html).
-
-## Author
-Hassan Ejaz  
-[https://brandbees.net](https://brandbees.net)
